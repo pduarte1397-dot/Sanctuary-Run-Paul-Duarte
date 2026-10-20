@@ -1,0 +1,127 @@
+{
+  "schema": "sanctuary-run-receipt/2",
+  "id": "0ca626d4-7112-4966-a025-5109489d51a9:827b8509-95c9-4f97-bd34-a577ce8e18ac:2026-10-20",
+  "course": "CS110",
+  "event": "The Crossing 9",
+  "eventCode": "C0AF9F",
+  "day": "2026-10-20",
+  "timeZone": "America/Los_Angeles",
+  "player": "Paul",
+  "playerId": "827b8509-95c9-4f97-bd34-a577ce8e18ac",
+  "team": "Hello World",
+  "participation": "team",
+  "teamCrest": 0,
+  "prizeEligible": true,
+  "prizeRule": "Team prizes require two or more members when the round starts. Solo travelers earn activity credit only.",
+  "status": "daily-target-met",
+  "roundResults": [
+    {
+      "round": 1,
+      "prizePlace": null,
+      "prizeEligible": false
+    },
+    {
+      "round": 2,
+      "prizePlace": 4,
+      "prizeEligible": true
+    }
+  ],
+  "points": 18,
+  "dailyTarget": 10,
+  "additionalPoints": 8,
+  "awardIds": [
+    "55de53f7-267d-4311-9770-44d5f3e97f2c",
+    "49808774-1be0-4eff-b5b0-d6451263e4d0",
+    "4825e709-3dc5-4afd-8a34-09567ab56622",
+    "3e5820e6-cc12-4fb4-8032-8f3cee236dea",
+    "e4a55d07-a958-4bb2-adaa-1665be5d7284",
+    "38c5092f-4800-4a4c-bc85-7e1fbba3ec4b",
+    "fe633954-2c54-4f7c-84a0-a65cb6690427",
+    "4b239b13-d588-4e6f-ad8b-8d0922dee433",
+    "043d0e55-e3fc-4a02-bac9-5161403a0ddd",
+    "3b38ebb3-ecd6-4ad5-b99d-17c110d163ed",
+    "63b9dc1f-cad7-4749-95e1-99856ed646dd"
+  ],
+  "encounters": [
+    {
+      "title": "The Safe Frequency",
+      "subject": "csharp",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:54:10.147Z"
+    },
+    {
+      "title": "The Supply Counter",
+      "subject": "csharp",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:55:02.069Z"
+    },
+    {
+      "title": "The Energy Conduit",
+      "subject": "csharp",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:55:37.653Z"
+    },
+    {
+      "title": "The Trader's Ledger",
+      "subject": "csharp",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:59:54.890Z"
+    },
+    {
+      "title": "The Guard's Rule",
+      "subject": "csharp",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:01:05.620Z"
+    },
+    {
+      "title": "The Silent Beacon",
+      "subject": "csharp",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T21:02:18.157Z"
+    },
+    {
+      "title": "The Frozen Bridge",
+      "subject": "csharp",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T21:03:00.699Z"
+    },
+    {
+      "title": "The Two Seals",
+      "subject": "csharp",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T21:03:47.515Z"
+    },
+    {
+      "title": "The Spark Engine",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:04:23.414Z"
+    },
+    {
+      "title": "The Supply Function",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:04:44.898Z"
+    },
+    {
+      "title": "The Open Gate",
+      "subject": "wpf",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:06:42.727Z"
+    }
+  ],
+  "issuedAt": "2026-10-20T21:10:49.566Z",
+  "records": "Verified activity record; save this receipt in your course GitHub repository and submit the repository link through Canvas.",
+  "signature": "aab0a3bf101bdee1ff0c360d6101fb1b65fb3cac4a38b96934f759ba8609ef59"
+}
